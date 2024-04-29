@@ -1,0 +1,22 @@
+body {
+	font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+font-family: Roboto, Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+	width: 80%;
+	max-width: 900px;
+	margin: 20px auto;
+}
+.text-center {
+	text-align: center;
+}
+div {
+	margin-bottom: 30px;
+	margin-right: 20px;
+	margin-left:50px;
+}
+button {
+	margin-left: 50px;
+}

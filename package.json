@@ -1,0 +1,14 @@
+{
+  "name": "loops_draw_shapes",
+  "version": "1.0.0",
+  "description": "The lesson provides examples of using loops to draw shapes in the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.1.1"
+  }
+}
